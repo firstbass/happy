@@ -1,6 +1,10 @@
 #requires python2.7
+<<<<<<< HEAD
 
 #ywww
+=======
+#yo
+>>>>>>> 2129d17b9eb564974fc157354b451c63690e4580
 #!/usr/bin/env python
 import os				#needed for multi-platform compatibility
 import time				#needed to limit program speed
